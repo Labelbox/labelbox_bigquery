@@ -1,3 +1,7 @@
+> [!WARNING]
+> Starting in July 2024, we will begin achieving all data connector libraries were they will no longer be maintained, including `labelspark`, `labelpandas`, `labelsnow`, and `labelbox-bigquery` libraries.
+> To import data from remote sources such as Databricks and Snowflake, set up Census integrations directly on the Labelbox platform.
+
 # Labelbox Connector for Google BigQuery
 
 Access the Labelbox Connector for Google BigQuery to easily perform the following functionalities:
